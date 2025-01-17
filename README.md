@@ -97,6 +97,9 @@ Develop a dynamic, interactive dashboard showcasing key metrics like sales, prof
 
 ## Tools and Formula
 Date Format: The date column was reformatted to display the start of each month, ensuring chronological alignment and enabling clear trend analysis over time.
+
+![start-month](Assets/Images/start of month.png)
+
 ### DAX Measures
 Some of the measures created to summarize and visualize datasets using scorecards;
 - **Total Sales**: `Total Sales = SUM('shipments'[Sales])`
