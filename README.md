@@ -1,5 +1,8 @@
 # Awesome Chocolates Dashboard: Optimizing Sales, Profitability, and Regional Performance
 
+![brand-picture](Assets/Images/pic.png)
+
+
 ## Table of Contents
 1. [Business Objective](#business-objective)
 2. [User Story](#user-story)
