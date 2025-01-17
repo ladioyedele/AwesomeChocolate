@@ -49,6 +49,9 @@ Develop a dynamic, interactive dashboard showcasing key metrics like sales, prof
 ---
 
 ## Dashboard Snapshot
+
+![dashboard](Assets/Images/Dashboard.png)
+
 - **Key Metrics Displayed**:
   - Sales trend by month
   - Total sales by location
@@ -78,8 +81,17 @@ Develop a dynamic, interactive dashboard showcasing key metrics like sales, prof
 
 ## Key Visuals Generated
 1. **Sales Trend by Month**: Line graph of sales trends.
+
+![sales-trend](Assets/Images/sales trend.png)
+
 2. **Total Sales by Location**: Column chart of sales by region.
+
+![sales-location](Assets/Images/sales by location.png)
+
 3. **Salesperson Performance**: Table of salesperson KPIs.
+
+![sales-person](Assets/Images/sales personnel performance.png)
+
 
 ---
 
